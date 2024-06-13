@@ -1,0 +1,10 @@
+{
+  "name": "White Ninja Token",
+  "symbol": "WNTC",
+  "decimals": 9,
+  "logoURI": "https://github.com/vfiraunovic/logo/blob/main/logo.png",
+  "description": "Social",
+  "extensions": {
+    "website": "https://github.com/vfiraunovic"
+  }
+}
